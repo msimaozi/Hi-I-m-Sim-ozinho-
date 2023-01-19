@@ -5,8 +5,8 @@
 
 --> :seedling: I’m currently learning C and Python
 
-Connect with me:
+# Connect with me:
 
-Languages and Tools:
+# Languages and Tools:
 
 c git java linux python 
