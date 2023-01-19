@@ -5,7 +5,7 @@
 
 --> :seedling: I’m currently learning C and Python
 
-# Connect with me:
+**Connect with me:**
 
 # Languages and Tools:
 
