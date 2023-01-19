@@ -11,4 +11,4 @@ miguel.simaozinho@gmail.com
 
 **Languages and Tools:**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britefish.net%2Fc-programming-language%2F&psig=AOvVaw1Njqh6fUGb_mlHy3t5butI&ust=1674212560802000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjsxvm90_wCFQAAAAAdAAAAABAE) git java linux python 
+![as](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britefish.net%2Fc-programming-language%2F&psig=AOvVaw1Njqh6fUGb_mlHy3t5butI&ust=1674212560802000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjsxvm90_wCFQAAAAAdAAAAABAE) git java linux python 
